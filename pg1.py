@@ -54,3 +54,5 @@ def tambah_pesanan():
 
 # Contoh penggunaan fungsi tambah_pesanan
 tambah_pesanan()
+
+# riski kontol
